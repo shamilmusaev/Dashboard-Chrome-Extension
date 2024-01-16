@@ -26,6 +26,8 @@ Stay on top of the cryptocurrency market by checking the latest Bitcoin status d
 
 ## Installation
 
+![Instruction image](assets/dev.png)
+
 To install the Chrome Dashboard Extension, follow these simple steps:
 
 1. Download the extension files from the GitHub repository.
