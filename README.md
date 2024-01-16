@@ -49,8 +49,4 @@ Contributions to the development of the Chrome Dashboard Extension are welcome. 
 - Unsplash API: [Link to Unsplash](https://unsplash.com/developers)
 - CoinGecko API: [Link to CoinGecko](https://www.coingecko.com/)
 
-## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the extension according to the terms of the license.
-
-Enjoy a personalized browsing experience with the Chrome Dashboard Extension!
