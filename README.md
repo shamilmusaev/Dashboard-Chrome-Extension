@@ -1,6 +1,6 @@
 # Chrome Dashboard Extension
 
-
+![Main image](assets/main.png)
 
 ## Overview
 
